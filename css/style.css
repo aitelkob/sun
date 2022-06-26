@@ -45,7 +45,7 @@ body {
 }
 
 .heading_container h2 span {
-  color: #bcc4f2;
+  color: #7fc7db;
 }
 
 /*header section*/
@@ -335,7 +335,7 @@ a:focus {
 }
 
 .glass_section {
-  background-color: #bcc4f2;
+  background-color: #7fc7db;
 }
 
 .glass_section .heading_container h2 {
@@ -400,7 +400,7 @@ a:focus {
 }
 
 .glass_section .glass_container .box .price a {
-  color: #bcc4f2;
+  color: #7fc7db;
   text-decoration: underline;
 }
 
@@ -467,7 +467,7 @@ a:focus {
 }
 
 .offer_section {
-  background-color: #bcc4f2;
+  background-color: #7fc7db;
 }
 
 .offer_section .row {
@@ -802,7 +802,7 @@ a:focus {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background-color: #bcc4f2;
+  background-color: #7fc7db;
   padding: 20px;
 }
 
